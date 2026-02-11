@@ -2,4 +2,6 @@
 logs/*
 *.log
 ~$*.xlsx
-
+out/
+.vscode/
+peersim-1.0.5/

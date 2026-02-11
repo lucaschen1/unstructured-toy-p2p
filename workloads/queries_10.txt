@@ -1,0 +1,10 @@
+rock
+jazz
+hiphop
+classical
+blues
+metal
+pop
+edm
+indie
+reggae
