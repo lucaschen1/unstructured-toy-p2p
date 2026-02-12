@@ -148,10 +148,7 @@ Compared to full flooding, kforward=2 slightly reduced completion rate and sligh
 
 ## Workload Configuration
 
-Experiments vary:
-- Number of files per peer (5 → 10 → 20)
-- Number of queries (10 → 20 → 40)
-- Number of peers (5 → 10 → 20)
+Experiments will vary the number of queries (10, 20, 40)
 
 For each configuration, the following metrics are collected:
 - **Average Latency** (cycles per query)
